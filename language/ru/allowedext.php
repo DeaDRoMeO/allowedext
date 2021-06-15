@@ -3,7 +3,7 @@
 /**
 *
 * @package AllowedExt
-* @copyright (c) 2020 DeaDRoMeO ; hello-vitebsk.ru
+* @copyright (c) 2021 DeaDRoMeO ; hello-vitebsk.ru
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
