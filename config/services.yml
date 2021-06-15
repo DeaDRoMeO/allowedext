@@ -1,0 +1,9 @@
+services:
+    deadromeo.allowedext.listener:
+        class: deadromeo\allowedext\event\listener
+        arguments:
+            - '@dbal.conn'
+            - '@template'
+            - '@user'
+        tags:
+            - { name: event.listener } 
